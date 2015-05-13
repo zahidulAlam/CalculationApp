@@ -1,0 +1,15 @@
+D:\SEIP\test\CalculationApp\CalculationApp\bin\Debug\CalculationApp.exe.config
+D:\SEIP\test\CalculationApp\CalculationApp\obj\Debug\CalculationApp.csprojResolveAssemblyReference.cache
+D:\SEIP\test\CalculationApp\CalculationApp\bin\Debug\CalculationApp.exe
+D:\SEIP\test\CalculationApp\CalculationApp\bin\Debug\CalculationApp.pdb
+D:\SEIP\test\CalculationApp\CalculationApp\obj\Debug\CalculationApp.exe
+D:\SEIP\test\CalculationApp\CalculationApp\obj\Debug\CalculationApp.pdb
+F:\CalculationApp\CalculationApp\bin\Debug\CalculationApp.exe.config
+F:\CalculationApp\CalculationApp\obj\Debug\CalculationApp.exe
+F:\CalculationApp\CalculationApp\obj\Debug\CalculationApp.pdb
+F:\CalculationApp\CalculationApp\bin\Debug\CalculationApp.exe
+F:\CalculationApp\CalculationApp\bin\Debug\CalculationApp.pdb
+F:\CalculationApp\CalculationApp\obj\Debug\CalculationApp.csprojResolveAssemblyReference.cache
+E:\zahid\assignment\CalculationApp\CalculationApp\bin\Debug\CalculationApp.exe.config
+E:\zahid\assignment\CalculationApp\CalculationApp\obj\Debug\CalculationApp.exe
+E:\zahid\assignment\CalculationApp\CalculationApp\obj\Debug\CalculationApp.pdb
